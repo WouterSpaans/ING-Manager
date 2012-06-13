@@ -42,7 +42,7 @@
                             account, 
                             csvItemBase.Description,
                             decimal.Parse(csvItemBase.Ammount),
-                            csvItemBase.BijAf == "Bij",
+                            csvItemBase.BijAf == "B",
                             csvItemBase.Currency,
                             csvItemBase.Name,
                             csvItemBase.TransactionType);
